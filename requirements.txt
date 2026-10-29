@@ -1,0 +1,13 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+chromadb==0.4.15
+sentence-transformers==2.2.2
+openai-whisper==20231117
+transformers>=4.52.1,<5.0.0
+torch==2.1.1
+torchvision==0.16.1
+groq==0.33.0
+Pillow==10.0.1
+python-multipart==0.0.6
+gunicorn==21.2.0
